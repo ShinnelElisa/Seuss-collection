@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Seuss-collection/static/css/main.fa05fe59.css",
-    "main.js": "/Seuss-collection/static/js/main.99b625c1.js",
+    "main.css": "/Seuss-collection/static/css/main.e5c3aad9.css",
+    "main.js": "/Seuss-collection/static/js/main.19df9513.js",
     "static/js/453.a9509777.chunk.js": "/Seuss-collection/static/js/453.a9509777.chunk.js",
     "index.html": "/Seuss-collection/index.html",
-    "main.fa05fe59.css.map": "/Seuss-collection/static/css/main.fa05fe59.css.map",
-    "main.99b625c1.js.map": "/Seuss-collection/static/js/main.99b625c1.js.map",
+    "main.e5c3aad9.css.map": "/Seuss-collection/static/css/main.e5c3aad9.css.map",
+    "main.19df9513.js.map": "/Seuss-collection/static/js/main.19df9513.js.map",
     "453.a9509777.chunk.js.map": "/Seuss-collection/static/js/453.a9509777.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa05fe59.css",
-    "static/js/main.99b625c1.js"
+    "static/css/main.e5c3aad9.css",
+    "static/js/main.19df9513.js"
   ]
 }
